@@ -1,3 +1,5 @@
 
-#ignore all .txt files
-*Employee Salaries.txt
+
+
+#Ignore all .txt files
+*.txt
